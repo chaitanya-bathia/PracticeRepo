@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+*.bak
+
+Additional Exercise Practice/gitruler-c-1/files/ideas/drafts/
